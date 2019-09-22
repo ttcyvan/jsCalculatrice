@@ -1,0 +1,31 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+
+.button{
+	width: 38px;
+	height: 38px;
+
+}
+
+.button:click{
+	
+
+}
+.textview{
+	width: 140px;
+	margin:5px;
+	font-size: 20px;
+	padding:5px;
+	border: solid;
+
+}
+.main{
+	position: absolute;
+	top: 5%;
+	left: 20%
+	
+}
+
